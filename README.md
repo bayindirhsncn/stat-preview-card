@@ -12,7 +12,7 @@
 
 
 ```html
-Some HTML code I'm proud of
+Some CSS code I'm proud of
 ```
 
 ```css
